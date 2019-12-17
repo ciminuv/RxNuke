@@ -1,2 +1,2 @@
-github "kean/Nuke" ~> 7.0
+github "ciminuv/Nuke" ~> 8.4.1
 github "ReactiveX/RxSwift" ~> 5.0
